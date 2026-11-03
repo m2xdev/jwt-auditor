@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.vscode/
+.env
+
+# Wordlists and tokens — never commit real secrets or large lists
+*.txt
+!requirements.txt
